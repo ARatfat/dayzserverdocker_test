@@ -28,7 +28,7 @@ FROM jlesage/baseimage-gui:debian-9
 
 # Stage 2: Add Wine and GUI stuff
 
-LABEL maintainer="Carl Kittelberger <icedream@icedream.pw>"
+LABEL maintainer="ARatfat <admin@aratf.at>"
 
 # wine
 ADD https://dl.winehq.org/wine-builds/Release.key /wine-builds.key
